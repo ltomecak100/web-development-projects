@@ -43,5 +43,7 @@ The application then calculates an approximate total price for the trip.
 ## Author
 
 Luka Tomečak
+
 Information and Business Systems
+
 Faculty of Organization and Informatics
