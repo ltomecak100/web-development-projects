@@ -42,14 +42,6 @@ Because of that, the website cannot be viewed directly at the moment.
 
 ---
 
-## Technologies Used
-
-* HTML
-* CSS
-* JavaScript
-
----
-
 ## Author
 
 Luka Tomečak
