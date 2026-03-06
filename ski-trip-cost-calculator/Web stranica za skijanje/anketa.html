@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="hr">
+<head>
+  <meta charset="UTF-8">
+  <title>Skijanje</title>
+  <link rel="stylesheet" href="dizajn.css">
+  <script src="skriptica.js" defer></script>
+</head>
+<body class="anketa-page">
+ 
+  <div class="kalkulator">
+  <h1>Kalkulator troškova za skijanje</h1>
+  <img src="ski_foto2.jpg" alt="Skijanje panorama" class="slika-header">
+</div>
+ <nav>
+                <a href="naslovna.html">Naslovna</a>
+                <a href="anketa.html">Anketa</a>
+</nav>
+
+  <br>
+  <label for="broj-osoba">Broj osoba:</label>
+  <input type="number" id="broj-osoba" value="1" min="1">
+
+  <div id="osobe-container"></div>
+
+  <img src="ski_foto1.jpg" alt="Ski foto" class="slika">
+
+  <br>
+  <h2>Ukupno:</h2>
+  <div id="ukupni-trosak"></div>
+
+  <button type="button" id="preuzmi-txt">Preuzmi TXT izvještaj</button>
+
+  <!-- footer MORA biti unutar body-ja -->
+  <footer>
+    <p>&copy; Luka Tomečak &nbsp; 2025.</p>
+  </footer>
+</body>
+</html>
